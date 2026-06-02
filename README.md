@@ -142,8 +142,6 @@ Blinkit-Analysis/
 
 ---
 
-📷 Dashboard Snapshot
-
 
 
 
